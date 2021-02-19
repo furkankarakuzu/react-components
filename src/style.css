@@ -1,0 +1,41 @@
+h1,
+p {
+  font-family: Lato;
+}
+.logos {
+  width: 11vw;
+  padding: 0.25rem;
+  height: auto;
+}
+.advantagesLogos {
+  max-width: 100%;
+  max-height: 50px;
+  height: auto;
+}
+.memberPictures {
+  width: 6rem;
+  max-width: 100%;
+  max-height: 100px;
+  height: auto;
+}
+.bgGray {
+  background-color: rgb(247, 247, 247);
+}
+.btnRadius {
+  border-radius: 10px;
+}
+.fs12 {
+  font-size: 12px;
+}
+.courseCards {
+  background-color: rgb(223, 240, 250);
+  width: 15px;
+  height: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -25px;
+}
+.fs8orange {
+  font-size: 8px;
+  color: orange;
+}
